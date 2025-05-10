@@ -1,25 +1,22 @@
-# Contributing to ESP32 Face Recognition Attendance System
+# Contributing Guidelines
 
-Hai! Terima kasih sudah tertarik berkontribusi di project ini.
+Terima kasih atas ketertarikan Anda untuk berkontribusi pada proyek ini!
 
 ## Cara Berkontribusi
 
-1. Fork repo ini.
-2. Buat branch baru: `git checkout -b fitur-baru`.
-3. Commit perubahan: `git commit -m 'Menambahkan fitur baru'`.
-4. Push ke branch: `git push origin fitur-baru`.
-5. Buat Pull Request 🚀.
+1. Fork repository ini.
+2. Buat branch baru: `git checkout -b fitur-anda`
+3. Lakukan perubahan yang diperlukan.
+4. Commit perubahan Anda: `git commit -m 'Menambahkan fitur X'`
+5. Push ke branch Anda: `git push origin fitur-anda`
+6. Buat Pull Request ke branch `main`.
 
-## Pedoman Kode
+## Standar Kontribusi
 
-- Gunakan bahasa Indonesia yang jelas di komentar.
-- Pastikan kode rapi dan terstruktur.
-- Jalankan `flake8` (untuk Python) sebelum push.
-
-## Laporan Bug
-
-Silakan buka issue baru dan jelaskan langkah-langkah reproduksi bug.
+- Gunakan bahasa yang sopan dan profesional.
+- Perubahan harus mendukung tujuan edukasi proyek.
+- Sertakan dokumentasi bila diperlukan.
 
 ---
 
-Terima kasih 🙌!
+Selamat berkontribusi! 🎉
